@@ -1,5 +1,5 @@
 import React from 'react';
-import Quote from '../components/Quote';
+import Quote from '../Components/BookDetails';
 
 const QuotesPage = () => {
   const quotes = [
